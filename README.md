@@ -36,7 +36,7 @@ This project is an interactive Tableau dashboard developed to visualize global C
 
 ## 📷 Dashboard Screenshot
 
-![COVID-19 Dashboard](Screenshots/Covid19_Dashboard.png))
+![COVID-19 Dashboard](Screenshots/Dashboard.png))
 
 ---
 
